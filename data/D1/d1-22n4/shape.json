@@ -1,0 +1,9 @@
+{
+    "total_points": 2160, 
+    "trends_num": 10,
+    "trends": [1.0, 1.005, 1.007, 1.004, 1.002, 1.0, 1.005, 1.007, 1.004, 1.002],
+    "noise_mean": 100,
+    "noise_standard_deviation": 100,
+    "smoother": 10,
+    "one_cycle_values": "./config/base.txt"
+}

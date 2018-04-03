@@ -1,0 +1,9 @@
+{
+    "total_points": 3000, 
+    "trends_num": 1,
+    "trends": [1.0],
+    "noise_mean": 0,
+    "noise_standard_deviation": 1,
+    "smoother": 10,
+    "one_cycle_values": "./config/base.txt"
+}

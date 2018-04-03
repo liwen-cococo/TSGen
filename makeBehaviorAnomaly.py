@@ -41,7 +41,6 @@ class MakeBehaviorAnomaly(object, ):
                     self.data[begin+max_index+ii] = average + uniform(-standard_deviation, standard_deviation)
                     ii += 1
                 anomaly += range(begin + max_index, begin + max_index+ii)
-            
             else:
                 self.data[begin+min_index] = max_value
                 ii = 0

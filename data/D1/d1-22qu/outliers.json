@@ -1,0 +1,9 @@
+{
+    "total_outliers": 5, 
+    "lower_limit_duration": 10,
+    "upper_limit_duration": 30,
+    "spike_lower_limit": 1.5,
+    "spike_upper_limit": 2.5,
+    "plunge_lower_limit": 0.3,
+    "plunge_upper_limit": 0.5
+}

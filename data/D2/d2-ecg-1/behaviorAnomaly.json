@@ -1,0 +1,5 @@
+{
+    "total_behavior_anomaly": 4,
+    "lower_limit_duration": 5,
+    "upper_limit_duration": 10
+}

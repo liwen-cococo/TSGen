@@ -58,7 +58,7 @@ def drawPng(data, anomaly, csv_filename, ano_filename, png_filename):
         writer.writerows(lines) 
     with open(ano_filename, 'w') as f:
         json.dump({csv_filename: anomaly}, f, indent=4)
-    
+        
     plt.plot(range(len(data)), data)
     y_ab = [data[i] for i in anomaly]
     plt.scatter(anomaly, y_ab, marker='o', color='r', s=20)
