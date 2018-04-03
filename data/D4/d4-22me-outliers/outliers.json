@@ -4,6 +4,6 @@
     "upper_limit_duration": 15,
     "spike_lower_limit": 1.5,
     "spike_upper_limit": 1.8,
-    "plunge_lower_limit": 0.5,
-    "plunge_upper_limit": 0.8
+    "plunge_lower_limit": 0.3,
+    "plunge_upper_limit": 0.5
 }
